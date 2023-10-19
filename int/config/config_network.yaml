@@ -1,13 +1,13 @@
 testnet:
-  DNS: AS12MGDGVB3xNDqzGidJM5fcAbjF1ZP5XAecm5ww4RU7sfQd4cMKk
+  DNS: AS12dCHtafNAiQMDFMoiyPqU1kX1S1Nn4PdAGvW9ffBueDW7JmLMP
   URLs:
-    - https://test.massa.net/api/v2
+    - http://81.49.155.238:33035
+  Default: true
 
 buildnet:
   DNS: AS1pzpVk79cubdM7Zk9pNdg1JR4qKooVa6usyquiCEQhPeRWD9k7
   URLs:
     - https://buildnet.massa.net/api/v2
-  Default: true
 
 labnet:
   DNS: AS1PV17jWkbUs7mfXsn8Xfs9AK6tHiJoxuGu7RySFMV8GYdMeUSh
